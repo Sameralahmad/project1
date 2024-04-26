@@ -1,0 +1,180 @@
+img{
+    width: 100px;
+
+}
+.hero{
+    background-color: #C3EAD8;
+    
+}
+.hero1{
+    background-color: #C3EAD8;
+    
+}
+/* .samer{
+    height: 800px;
+} */
+#resize{
+    height: 700px;
+}
+.propa{
+    position: relative;
+    left: 400px;
+   bottom:  120px;
+}
+.iphone{
+    height: 450px;
+    width:auto;
+    position: relative;
+    left: 400px;
+    bottom: 100px;
+}
+
+.man{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    top: 100px;
+    left: 30px;
+}
+.samer{
+    padding-top: 150px;
+}
+.firsttt{
+    height: 50px;
+    width: auto;
+}
+.handd{
+    display: flex;
+}
+a{
+    text-align: center;
+}
+.section1{
+background-color: #F8E7DF;
+}
+.img1 img{
+    left: 400px;
+    position: relative;
+    bottom: 50px;
+   height: 500px;
+   width: auto;
+}
+.img2 img{
+    width: 340px;
+    position: relative;
+    bottom: 290px;
+    left: 100px;
+}
+.card{
+   width: 300px;
+   position: relative;
+  top: 200px;
+  left:150px ;
+}
+#sec1{
+    height: 400px;
+}
+.img3 img{
+    left: 100px;
+    position: relative;
+    bottom: 50px;
+   height: 500px;
+   width: auto;
+  
+}
+#sec2{
+    height: 400px;
+}
+.section2{
+    background-color: #EEF2FB;
+    
+    }
+    .img4 img{
+        width: 340px;
+        position: relative;
+        bottom: 340px;
+        left: 220px;
+    }
+    #sect2{
+
+    }
+    
+    .section3{
+        background-color: #E1F5EB;
+        
+        }
+
+#sect3{
+    padding-bottom: 50px;
+}        
+
+
+.tabl img{
+    height: 330px;
+    width: auto;
+}
+#submitt{
+    width:640px;
+    position: relative;
+    right: 25px;
+    background-color: #333215
+    ;
+}
+.qota img{
+    height: 60px;
+    width: auto;
+    position: relative;
+    left: 130px;
+}
+#imgs{
+    height: 70px;
+    width: auto;
+}
+#colors{
+    background-color: 
+    #FFFEF0
+    ;
+}
+#colora{
+    background-color: #F8E7DF;
+    width: 1150px;
+}
+#colorb{
+    background-color: #1C4F38;
+}
+#imgu{
+    height: 100px;
+    width: auto;
+}
+#foter{
+    background-color: #C3EAD8
+    ;
+}
+.imgf{
+    position: relative;
+    left: 200px;
+}
+.hover1:hover{
+    border-radius: 1px solid black;
+}
+#hov1{
+    transition: box-shadow .3s;
+    position: relative;
+    left: 20px;
+    margin: 50px;
+}
+#hov1:hover{
+    background-color: #C9ECDC
+    ;
+    box-shadow: 20px 15px 15px #FEF86B
+    ;
+}
+#coloo{
+    color: #A9A547
+    ;
+    background-color: #FFFEF0;
+}
+#bott{
+    background-color: #FEF86B;
+    color: black;
+}
